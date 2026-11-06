@@ -1,0 +1,5 @@
+pypdf
+python-dotenv
+google-genai
+psycopg[binary]
+numpy
